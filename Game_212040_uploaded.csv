@@ -6187,9 +6187,9 @@ New Building: <em>Fuel Refinery</em> (<buildinginfo('FuelFactory')>)  - Produces
 6485,"Increases research provided by <em>sponsor</em> by <research(param1)>.
 
 <grey>""Two planets, one human race – sharing knowledge and coexisting within the Solar System.""
-<right>Martian Scientist</grey><left>","通过<research(param1)>提高<em>赞助商</em>的研究供给.
+<right>Martian Scientist</grey><left>","<em>赞助商</em>提供的研究点数增加<research(param1)>。
 
-<grey>""两颗行星，一种知识，太阳系中，共享共存""
+<grey>“两颗行星，一种知识，太阳系中，共享共存。”
 <right>火星科学家</grey><left>",
 6488,Systematic Training,系统性训练,
 6489,"<em>Scientists and Botanists</em> have +<param1> performance when working in their specialty.
@@ -7025,7 +7025,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 7330,Unlocked Achievement,解锁的成就
 8491,Lights On During Placement,在安置过程中开灯
 606,Construction Site,建设工地
-607,<em>Construction site</em>. This building will be constructed by Drones when all necessary resources have been brought.,<em>建设工地</em>。在所有需要的资源到位后，机器人会开始建造这个建筑。
+607,<em>Construction site</em>. This building will be constructed by Drones when all necessary resources have been brought.,<em>建设工地。</em>在所有需要的资源到位后，机器人会开始建造这个建筑。
 618,"<left><resource><right><resource(remaining,total,res)>",
 627,The construction site is being cleared.,建设工地正在被清理。
 6750,Reload Time,装填时间
@@ -10986,7 +10986,7 @@ Some features may not work.","下列Mod缺失或过期:
 4495,<newline><red>Not enough space to unload</red>,<newline><red没有足够的空间卸载</red>
 4497,Unload all resources<warning>,卸载所有资源<warning>
 4504,Create Transport Route,创建运输路径
-4505,Create an automatic transport route. Selected resource will be collected near the origin point and delivered to the destination. The route will be active until all sources are exhausted or there is no more room at the destination.,
+4505,Create an automatic transport route. Selected resource will be collected near the origin point and delivered to the destination. The route will be active until all sources are exhausted or there is no more room at the destination.,创建一条自动的运输路径。将会自动从起点附近收集所选择的资源并递送到终点。该路线将一直处于活跃状态，直到所有的资源耗尽或目的地没有更多的空间。
 7555,<left_click> Create route mode,<left_click> 创建路径
 7408,<left_click>Set Source  <em><left_click> (again)</em> Set Destination<newline><right_click> Cancel,<left_click>设定资源<em><left_click> (再次点击)</em> 设定目标<newline><right_click> 取消设定,
 7512,<ButtonA> Cancel,<ButtonA> 取消
@@ -11532,7 +11532,7 @@ Current status: Exports are <em>forbidden</em>.","允许或禁止向地球出口
 427664763631,Scan Progress,扫描进程
 944541850261,The structural integrity of this vehicle will decrease on each missile hit. The vehicle will be disabled at 0 integrity.,车辆的结构完整性在每次导弹命中后都会降低，该车辆将在0的完整性时不可用。
 678706263894,"Structural Integrity <percent(current_health, max_health)>","结构完整性 <percent(current_health, max_health)>"
-7606,"Vehicles can recharge their batteries from active Power grids. Vehicles are also able to recharge each other, equalizing the Power in their batteries.<newline><newline>Power<right><percent(BatteryPerc)><newline><left><battery_ui_str>","车辆可以在正在运行的电源网格中充电。车辆也可以互相充电以平衡他们的电量。<newline><newline>电量<right><percent(BatteryPerc)><newline><left><battery_ui_str>"
+7606,"Vehicles can recharge their batteries from active Power grids. Vehicles are also able to recharge each other, equalizing the Power in their batteries.<newline><newline>Power<right><percent(BatteryPerc)><newline><left><battery_ui_str>","载具可以从有源电网中重新充电。载具也可以互相充电，达到电量平衡的状态。<newline><newline>电量<right><percent(BatteryPerc)><newline><left><battery_ui_str>"
 7607,Battery,电池
 7658,<left><left_click> Increase priority<right><right_click> Decrease priority<newline><center><em>Ctrl + <left_click></em> Change priority of all <display_name_pl>,<left><left_click> 提高优先级<right><right_click> 降低优先级<newline><center><em>Ctrl + <left_click></em> 改变所有<display_name_pl>的优先级
 7659,<ButtonA> Change priority<newline><ButtonX> Change priority of all <display_name_pl>,<ButtonA> 改变优先级<newline><ButtonX> 改变所有优先级 <display_name_pl>
@@ -11543,9 +11543,9 @@ Current status: Exports are <em>forbidden</em>.","允许或禁止向地球出口
 513214256397,Maintenance already requested.,已申请维护
 425734571364,Request Maintenance,申请维护
 8629,Move the camera to the other side of the tunnel.,将相机对准隧道的另一边
-8630,View Exit,退出观景
-8631,<left_click> View,<left_click> 观景
-7605,<ButtonA> View,<ButtonA> 观景
+8630,View Exit,观察出口
+8631,<left_click> View,<left_click> 观察
+7605,<ButtonA> View,<ButtonA> 观察
 7822,Destroy this building.,摧毁这座建筑。
 593,Rebuild this building.,重建这座建筑。
 592,Rebuild,重建
@@ -11710,7 +11710,7 @@ Current status: Exports are <em>forbidden</em>.","允许或禁止向地球出口
 725519231960,Available storage space. This vehicle will stop gathering resources once full.,Available storage space. This vehicle will stop gathering resources once full.可用的储货空间。如果容量已满，这辆车将停止收集资源。
 109035890389,Capacity,容量
 452762661451,Capacity<right><resource(StoredAmount)>/<resource(max_shared_storage)>,容量<right><resource(StoredAmount)>/<resource(max_shared_storage)>
-39,"Vehicles can recharge their batteries from active Power grids. Vehicles are also able to recharge each other, equalizing the Power in their batteries.<newline><newline><left><battery_ui_str>",""车辆可以从电网中为电池充电。车辆也可以相互充电，他们将平分电池中的电量。<newline><newline><left><battery_ui_str>"
+39,"Vehicles can recharge their batteries from active Power grids. Vehicles are also able to recharge each other, equalizing the Power in their batteries.<newline><newline><left><battery_ui_str>","载具可以从有源电网中重新充电。载具也可以互相充电，达到电量平衡的状态。<newline><newline><left><battery_ui_str>"
 38,Battery  <percent(BatteryPerc)>,电池  <percent(BatteryPerc)>
 660271041264,<CarriedResourceStr>,<CarriedResourceStr>
 7419,<Description>,
