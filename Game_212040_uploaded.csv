@@ -3341,24 +3341,24 @@ But when something as serious as the motor system breaks down, it takes bravery 
 5864,Mystery Cube,神秘立方体
 5865,"Reportedly, a black cube has appeared within the extractor.",据报道，提取器内出现黑色立方体。
 5866,Cube Disaster,立方灾难
-5867,Power of Three: Disappearing Act,三的力量：消失行为
+5867,Power of Three: Disappearing Act,三项之力：消失行为
 5868,"This event was unlike any malfunction predicted in the security protocols. Orbital scans on the site revealed no evidence of the existence of the huge structure – only a black cube matrix centered on the spot where the extractor was supposed to be.
 
-<effect>A Concrete Extractor has been destroyed by a Black Cube. An Anomaly has appeared on the site.","“这个事件与安全协议中预测的任何故障不同，在现场的轨道扫描显示没有证据证明存在巨大的结构 - 只有一个黑色的立方体矩阵集中在提取器应有的位置。
+<effect>A Concrete Extractor has been destroyed by a Black Cube. An Anomaly has appeared on the site.","这个事件与安全协议中预测的任何故障不同，在现场的轨道扫描显示没有证据证明存在巨大的结构 - 只有一个黑色的立方体矩阵集中在提取器应有的位置。
 
-<effect>一个混凝土提取器被一个黑色立方体摧毁。 一个异常已经出现在站点上。”"
+<effect>一个混凝土提取器被一个黑色立方体摧毁。 一个异常已经出现在站点上。"
 5869,We must investigate,我们必须调查一下
 5870,A Black Cube has led to the destruction of a Concrete Extractor. We should investigate the site with an Expedition.,黑立方体导致混凝土提取器的破坏。 我们应该调查现场。
-5871,Power of Three: A Black Cube Appears,三的力量：黑色立方体出现
+5871,Power of Three: A Black Cube Appears,三项之力：黑色立方体出现
 5872,"The mysterious object appears to consist of pitch-black cubes arranged in a matrix. The cubes seemingly levitate above the ground without the aid of any support structure.
 
 Preliminary image analysis remains inconclusive. An on-site investigation is required to assess the Anomaly. We advise caution.
 
-<effect>A Black Cube has appeared seemingly out of nowhere. We have to investigate this Anomaly.","“神秘的物体似乎是由矩阵排列的漆黑立方体组成的，这些立方体似乎在没有任何支撑结构的情况下悬浮在地面之上。 
+<effect>A Black Cube has appeared seemingly out of nowhere. We have to investigate this Anomaly.","神秘的物体似乎是由矩阵排列的漆黑立方体组成的，这些立方体似乎在没有任何支撑结构的情况下悬浮在地面之上。 
 初步图像分析仍然不确定。需要现场调查以评估异常情况。 我们建议谨慎。 
-<effect>一个黑色立方体似乎已经无处不在。 我们必须调查这个异常。”"
+<effect>一个黑色立方体似乎已经无处不在。 我们必须调查这个异常。"
 5873,A black cube? Most peculiar…,一个黑色立方体？很神奇...
-5874,"Power of Three: ...For, They Came in Numbers",三的力量：...因为，他们来自数字
+5874,"Power of Three: ...For, They Came in Numbers",三项之力：...因为，他们来自数字
 5875,"The cube structures tend to emerge without warning, as unscientific as it may sound, out of thin air. Apart from their evident presence, so far the structures pose no threat to the Colony.
 
 Until further investigation, the scientific board of Mission Control has decided to impose an information blackout on the matter to prevent the spread of panic and fear among the Colonists.","“立方体常常毫无预警的凭空出现，这听起来不科学。
@@ -3366,12 +3366,14 @@ Until further investigation, the scientific board of Mission Control has decided
 在进一步调查之前，任务管控的科学部已决定对此事实施信息封锁，以防止恐慌和恐惧在殖民者中蔓延。” 任务控制建议所有人员保持冷静并遵守秩序。"
 5876,"There is a certain sense of urgency to this, it seems.",看起来，这有一定的紧迫感。
 5877,More than a hundred cubes have appeared. Their purpose and origin are still unknown.,出现了超过一百个立方体。 他们的目的和来源仍然是未知的。
-5878,Power of Three: Making Sense of the Unknown,三的力量：未知的感觉
+5878,Power of Three: Making Sense of the Unknown,三项之力：未知的感觉
 5879,"Without any credible explanation, the Colony was soon flooded with various rumors and interpretations of the mystery. What if they're bombs? Billions of tiny bombs? Or transport capsules maybe, with a mini robot inside. Or deadly hard drives. Or alien eggs? Or messages needing decoding. Or they're all parts of a bigger whole. Jigsaw puzzles that need to be put together.
 
-The team at Mission Control is against trying to spread further misinformation and propaganda – partially because it would just add to the total confusion, but mainly because it would endanger the philosophical principles of our mission. We could only trust in our Colonists and hope for the best.",“没有任何可信的解释，殖民地很快就被各种谣言和对这个谜团的猜测充斥着，如果它们是炸弹呢？万亿小炸弹呢？还是运输胶囊，里面装的是一个迷你机器人，或者是致命的硬件。或者异形卵？还是需要解码的信息？或者它们都是更大整体的一部分。拼图游戏需要拼凑在一起。任务管理团队反对试图传播更多的错误信息和宣传 - 部分原因是这些都会制造更大的混乱，但主要是因为它会危及我们使命。 我们只能相信我们的殖民者，并满怀希望了。”
+The team at Mission Control is against trying to spread further misinformation and propaganda – partially because it would just add to the total confusion, but mainly because it would endanger the philosophical principles of our mission. We could only trust in our Colonists and hope for the best.","没有任何可信的解释，殖民地很快就被各种谣言和对这个谜团的猜测充斥着，如果它们是炸弹呢？万亿小炸弹呢？还是运输胶囊，里面装的是一个迷你机器人，或者是致命的硬件。或者异形卵？还是需要解码的信息？或者它们都是更大整体的一部分。拼图游戏需要拼凑在一起。
+
+任务管理团队反对试图传播更多的错误信息和宣传——部分原因是这些都会制造更大的混乱，但主要是因为它会危及我们使命。我们只能相信我们的殖民者，并满怀希望了。"
 5880,We have to come up with something better.,我们的想出更好的办法。
-5881,Power of Three: Dark Properties,三的力量：黑暗的属性
+5881,Power of Three: Dark Properties,三项之力：黑暗的属性
 5882,"The insides of the cubes as well as the physical forces behind their levitation remain an enigma. Individual cubes as well as their combined structure retain a perfect symmetry and any attempts to physically disturb their positions have failed.
 
 What is even more puzzling is the analysis of the photonic spectroscopy of the cubes. They seem to emanate radiation of an unknown wavelength which excites the separation of electrons inside of the spectroscopic lens. While our science team refuses to jump to any conclusions, the Chief Engineer suggests that we should study the effect empirically on the Colony’s Solar Panels.
@@ -3382,7 +3384,7 @@ The science team requested permission to commence experimental research on the c
 <effect>关于黑色立方体之谜的新研究现在已可用”"
 5883,We should rearrange our research priorities.,我们应该重新安排我们的研究重点。
 5884,We should research the S.H.E.P.I.D. technology to protect the Colony structures from the Black Cubes,我们应该研究S.H.E.P.I.D. 技术来保护黑色立方体的殖民地结构
-5885,Power of Three: Post–benign,三的力量:良性
+5885,Power of Three: Post–benign,三项之力:良性
 5886,"It appears the Black Cubes materialized inside the Extractor. We could only guess what happened to the building.
 
 It seems any of the artifacts could materialize inside a structure, sending it into oblivion. We are now facing the potential threat of future human casualties.
@@ -3396,13 +3398,13 @@ Mission Control advises a top priority on the investigation of the disaster.
 <effect>未来可能会有更多建筑物倒塌。现在有预防性研究。”"
 5887,A potential solution! This is great news.,潜在的解决方案！ 这是个好消息。
 5888,We confirmed that the Extractor was destroyed by the Black Cubes. New preventive research is now available.,我们确认提取器被黑色立方体摧毁。 现在有新的预防性研究。
-5889,Power of Three: A Time For Speculation,三的力量：一次投机
+5889,Power of Three: A Time For Speculation,三项之力：一次投机
 5890,"The science team is divided in two camps: those who speculate it will amplify the cube signals allowing them to transmit through the reaches of space, and those who believe it could be some kind of weapon meant for destruction, not communication.
 
 Outside the labs however, the cult of the Cubes has gained even more momentum. People are gathering to wait for what they think would be the coming of God to humanity’s second home.","“科学团队分成两个阵营：那些推测是信号放大器的人，认为这些立方体可使信号在太空中传播，而另外一部分人相信它可能是某种旨在破坏而不是沟通的武器。
 然而，在实验室之外，立方体的崇拜已经形成规模。人们正在聚集，等待他们认为上帝将来到人类的第二故乡。”"
 5891,"A culmination seems to be imminent, that’s for certain.",可以确定的是，高潮即将来临。
-5892,Power of Three: Solace in Science,三的力量：科学安慰
+5892,Power of Three: Solace in Science,三项之力：科学安慰
 5893,"In a moment of brilliance, or possibly desperation, one of the physicists proposed they should try to crack open the structures.
 
 The scientists moved the cube matrix inside a non-baryonic shell and proceeded to bombard a single cube with high-energy ions, a process known as sputtering. The results were immediate – the shell of the cube gave in, resulting in its rapid decomposition. The matrix itself reacted to the influence by rearranging itself into a solid structure made of the remaining cubes.
@@ -3415,7 +3417,7 @@ Though we have no explanation for the process, at least we have a way to deal wi
 <effect>立方体可以存储在特殊的地点或销毁”"
 5894,"Piece by piece, we will unravel this enigma.",一点一点地，我们将解开这个谜。
 5895,Dark Spectrometry research completed. We can now store and destroy the cubes.,暗光谱研究完成。 我们现在可以储存和销毁立方体。
-5896,Power of Three: Embracing the Unknown,三的力量：拥抱未知
+5896,Power of Three: Embracing the Unknown,三项之力：拥抱未知
 5897,"The Colonists have divided into factions centered around a certain hypothesis about the nature and purpose of the mysterious artifacts.
 
 The excitement about the cubes is evident from the schedules of the weekly hearings in the Colony. The trivial themes such as the quality of the food and the requests for additional scientific funding had completely disappeared, replaced by requests for publicity for each faction’s viewpoint.
@@ -3431,7 +3433,7 @@ So far, there are three major camps. The moderate skeptics argue that the truth 
 <effect>装饰用立方体制成的建筑物可以建造。"
 5898,"A gift or a Trojan horse, I wonder...",礼物或特洛伊木马，我想知道...
 5899,Decorations can be created from the Black Cubes.,可以用黑色立方体创建装饰物。
-5900,Power of Three: Primal Fear,三的力量：最初的恐惧
+5900,Power of Three: Primal Fear,三项之力：最初的恐惧
 5901,"Still, our scientists managed to define to some extent why the cubes sometimes materialize inside our buildings. It seems that some cryptic algorithm first sends a pulse of tachyons to the area where the cube will materialize. If the Cherenkov radiation measurements are within certain limits, the cube appears on the spot. Thus, the cubes avoid appearing inside rocks – indeed, none of our scans confirmed that any cube spawned inside of a high-density object.
 
 Our structures tend to be much less dense than the monolithic Martian rocks. We can modify our sensor towers to create a fake Cherenkov Effect by bombarding the areas around our structures with particles which are harmless to our Colonists, but would still prevent the cubes from threatening our Colony.
@@ -3444,17 +3446,17 @@ Our structures tend to be much less dense than the monolithic Martian rocks. We 
 5902,A small victory – our efforts continue.,小小的胜利 - 我们的努力还在继续。
 5903,S.H.E.P.I.D. research completed. Buildings within range of our Sensor Towers will be protected from the cubes,S.H.E.P.I.D. 研究完成。 我们的传感器塔范围内的建筑物将免受立方体的影响
 5904,"All cubes on Mars have started to pulsate, counting towards an unknown event.",火星上的所有立方体都开始搏动，计数未知事件。
-5905,Power of Three: The Countdown,三的力量：倒计时
+5905,Power of Three: The Countdown,三项之力：倒计时
 5906,"The photovoltaic effect we observed earlier has completely disappeared. To make things worse, numerous glitches in the drone command software have our technicians scattering to extinguish fires all across the board. It seems that the pulses from the cubes are somehow interfering with the Drone uplink.
 
 As reports are flowing in, we can clearly see a trend in the intensification of the light pulses. Is this some kind of countdown? And if so, to what?","“我们之前观察到的光伏效应已经完全消失了。更糟糕的是，大量的机器人智慧软件故障使在我们的技术人员忙于应付。似乎从立方体发出的脉冲干扰了机器人上行链路。
 
 随着报道的传来，我们可以清楚地看到光脉冲激化的趋势。这是倒计时吗？ 如果是这样，那又会发生什么？”"
 5907,"Just colonizing a new world isn’t interesting enough, it seems.",看起来，在新世界殖民真是无趣。
-5908,Power of Three: Of Mice & Men,三的力量：人与鼠
-5909,"Some of them call for the immediate destruction of all the cubes while others still insist on storing and studying them – as far away from the Domes as possible. And yet, the number of eccentrics worshiping the cubes and erecting monuments with them has grown even larger. Could the cubes be affecting us like they influenced our drones?",其中一些人呼吁立即销毁所有的立方体，而其他人仍然坚持先留着研究它们 - 当然尽可能远离圆顶。然而，与他们一起崇拜立方体和竖立纪念碑的怪人的数量变得更多。立方体能否影响我们，就像它们影响我们的机器人一样？
+5908,Power of Three: Of Mice & Men,三项之力：人与鼠
+5909,"Some of them call for the immediate destruction of all the cubes while others still insist on storing and studying them – as far away from the Domes as possible. And yet, the number of eccentrics worshiping the cubes and erecting monuments with them has grown even larger. Could the cubes be affecting us like they influenced our drones?",其中一些人呼吁立即销毁所有的立方体，而其他人仍然坚持先留着研究它们——当然尽可能远离圆顶。然而，与他们一起崇拜立方体和竖立纪念碑的怪人的数量变得更多。立方体能否影响我们，就像它们影响我们的机器人一样？
 5910,We must not lose focus.,我们必须集中注意力。
-5911,Power of Three: Construction Begins,三的力量：建设开始
+5911,Power of Three: Construction Begins,三项之力：建设开始
 5912,"Between their usual command cycles, the drones have begun carrying cubes to a specific location and seem to be constructing a strange structure.
 
 Diagnostics on the drone software and hardware reveal no clues for any reprogramming. All of our attempts to gather information about the purpose of this operation have failed.
@@ -3472,7 +3474,7 @@ Mission Control advises all personnel to brace for the unknown.
 5914,Affected Drones are building something of alien design.,受影响的机器人正在构建一些外星人设计。
 5915,Unknown Construction,未知的建筑
 5916,Drones influenced by the cubes have started the construction of a Mega Monolith,受立方体影响的机器人已经开始建造一个巨型丰碑
-5917,Power of Three: Out of the Eons,三的力量：无所不在
+5917,Power of Three: Out of the Eons,三项之力：无所不在
 5918,"Eons ago, while Earth was still a molten world, Mars had already been a teeming, living world covered by oceans and forests. This long-forgotten Mars was the home for a sentient race which quickly mastered their primitive urges and reached technological peaks yet to be conquered by humankind.
 
 We witnessed the astonishing evolution of the Ancients and the countless metamorphoses they experienced until they reached a state of existence which allowed them to transcend the boundaries of the material form. Without worrying about resources or lifespan, they traversed the universe, leaving their home behind. But they have not forgotten it.
@@ -3525,24 +3527,24 @@ Not quite sure what to make of this, they express hope we will retain our creati
 <effect>所有殖民者都受到对士气的惩罚。"
 5928,Perhaps we should've done more,也许我们应该做更多
 5929,We didn't get to the bottom of the mystery of the Black Cubes. Perhaps more decisive action was needed.,我们没有深入到黑色立方体的奥秘之中。 也许需要更果断的行动。
-5930,Power of Three: For the Generations to Witness,三的力量：见证的一代
+5930,Power of Three: For the Generations to Witness,三项之力：见证的一代
 5931,"It would be irresponsible to mismanage the situation and leave public opinion to sway back and forth on the matter.
 
 With the current state of events we lack sufficient data to judge the purpose of the cubes. It could take years if not generations of scientific research to reach a conclusion on that subject. Until then, we will attempt to control the erratic spread of the cubes which hampers our resources and colonization operations by storing them away in a convenient manner.","对这种情况进行错误管理并让公众舆论在这个问题上来回摆动是不负责任的。
 
 鉴于目前的事态，我们缺乏足够的数据来判断立方体的用途。 如果不是几代科学研究就此问题达成结论可能需要几年的时间。在此之前，我们将试图通过以方便的方式储存它们，从而控制阻碍我们的资源和殖民化活动的立方体的不稳定传播。"
 5932,Only time will tell if we are right.,只有时间会告诉我们是否正确。
-5933,Power of Three: Might Makes Right,三的力量：可能是对的
+5933,Power of Three: Might Makes Right,三项之力：可能是对的
 5934,"We will attempt to remove all the cubes from our immediate area. A decision as serious as this required a consensus, which was reached through a vote at Mission Control. The public may deem this decision wrong, but we cannot place the fate of the entire Colony on our desire to wait it out. History had taught us that the inability to act often results in disaster. The destruction of cubes will proceed as planned.",我们将尝试从我们的邻近区域移除所有立方体。像这样严肃的决定需要通过在任务控制部门达成共识。公众可能认为这是个错误的决定，但我们不能把整个殖民地的命运置于等待它的愿望上。历史告诉我们，犹疑不决往往会导致灾难。立方体的破坏将按计划进行。
 5935,"Humanity will prevail, no matter the cost.",无论代价如何，人类都会战胜。
-5936,Power of Three: Cult of Tomorrow,三的力量：未来的崇拜
+5936,Power of Three: Cult of Tomorrow,三项之力：未来的崇拜
 5937,"To disregard the desires of our Colonists would be a monstrous, autocratic act.
 
 Mission Control has officially allowed the creation of a series of monuments dedicated to the Higher Truth proclaimed by some of our most active Colonists. We must look into ourselves and at our history as a species – denying the possibility that these people are right would mean that we are no better than the fanatics who burned visionaries at the pyres because of their beliefs.","无视我们的殖民者的愿望将是一个可怕的专制行为。
 
 任务控制已正式授权建造一系列纪念碑，由我们一些最活跃的殖民者，用于宣布的更高真理。我们必须把自己和我们的历史看作一个类型的 - 否认这些人是对的，可能性意味着我们不会比那些用柴堆烧死信仰先驱的狂热分子好。"
 5938,It would be tyranny to forbid this.,禁止这些就是暴政。
-5939,Power of Three: Singularity Imminent,三的力量：奇点迫在眉睫
+5939,Power of Three: Singularity Imminent,三项之力：奇点迫在眉睫
 5940,"The obscure algorithm or – perish the thought! - the intelligence directing the construction has commanded otherwise. Within mere hours, the super-structure dematerialized, decaying to its basic components, and reappeared, commanding our drones to proceed with its construction anew.
 
 The creators of the structure definitely want us to finish their plan. The potential risk from yesterday has now become a tangible menace and I don't believe that anyone in the Colony lives under the illusion that it is avoidable.
@@ -6187,9 +6189,9 @@ New Building: <em>Fuel Refinery</em> (<buildinginfo('FuelFactory')>)  - Produces
 6485,"Increases research provided by <em>sponsor</em> by <research(param1)>.
 
 <grey>""Two planets, one human race – sharing knowledge and coexisting within the Solar System.""
-<right>Martian Scientist</grey><left>","通过<research(param1)>提高<em>赞助商</em>的研究供给.
+<right>Martian Scientist</grey><left>","<em>赞助商</em>提供的研究点数增加<research(param1)>。
 
-<grey>""两颗行星，一种知识，太阳系中，共享共存""
+<grey>“两颗行星，一种知识，太阳系中，共享共存。”
 <right>火星科学家</grey><left>",
 6488,Systematic Training,系统性训练,
 6489,"<em>Scientists and Botanists</em> have +<param1> performance when working in their specialty.
@@ -7025,7 +7027,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 7330,Unlocked Achievement,解锁的成就
 8491,Lights On During Placement,在安置过程中开灯
 606,Construction Site,建设工地
-607,<em>Construction site</em>. This building will be constructed by Drones when all necessary resources have been brought.,<em>建设工地</em>。在所有需要的资源到位后，机器人会开始建造这个建筑。
+607,<em>Construction site</em>. This building will be constructed by Drones when all necessary resources have been brought.,<em>建设工地。</em>在所有需要的资源到位后，机器人会开始建造这个建筑。
 618,"<left><resource><right><resource(remaining,total,res)>",
 627,The construction site is being cleared.,建设工地正在被清理。
 6750,Reload Time,装填时间
@@ -10986,7 +10988,7 @@ Some features may not work.","下列Mod缺失或过期:
 4495,<newline><red>Not enough space to unload</red>,<newline><red没有足够的空间卸载</red>
 4497,Unload all resources<warning>,卸载所有资源<warning>
 4504,Create Transport Route,创建运输路径
-4505,Create an automatic transport route. Selected resource will be collected near the origin point and delivered to the destination. The route will be active until all sources are exhausted or there is no more room at the destination.,
+4505,Create an automatic transport route. Selected resource will be collected near the origin point and delivered to the destination. The route will be active until all sources are exhausted or there is no more room at the destination.,创建一条自动的运输路径。将会自动从起点附近收集所选择的资源并递送到终点。该路线将一直处于活跃状态，直到所有的资源耗尽或目的地没有更多的空间。
 7555,<left_click> Create route mode,<left_click> 创建路径
 7408,<left_click>Set Source  <em><left_click> (again)</em> Set Destination<newline><right_click> Cancel,<left_click>设定资源<em><left_click> (再次点击)</em> 设定目标<newline><right_click> 取消设定,
 7512,<ButtonA> Cancel,<ButtonA> 取消
@@ -11532,7 +11534,7 @@ Current status: Exports are <em>forbidden</em>.","允许或禁止向地球出口
 427664763631,Scan Progress,扫描进程
 944541850261,The structural integrity of this vehicle will decrease on each missile hit. The vehicle will be disabled at 0 integrity.,车辆的结构完整性在每次导弹命中后都会降低，该车辆将在0的完整性时不可用。
 678706263894,"Structural Integrity <percent(current_health, max_health)>","结构完整性 <percent(current_health, max_health)>"
-7606,"Vehicles can recharge their batteries from active Power grids. Vehicles are also able to recharge each other, equalizing the Power in their batteries.<newline><newline>Power<right><percent(BatteryPerc)><newline><left><battery_ui_str>","车辆可以在正在运行的电源网格中充电。车辆也可以互相充电以平衡他们的电量。<newline><newline>电量<right><percent(BatteryPerc)><newline><left><battery_ui_str>"
+7606,"Vehicles can recharge their batteries from active Power grids. Vehicles are also able to recharge each other, equalizing the Power in their batteries.<newline><newline>Power<right><percent(BatteryPerc)><newline><left><battery_ui_str>","载具可以从有源电网中重新充电。载具也可以互相充电，达到电量平衡的状态。<newline><newline>电量<right><percent(BatteryPerc)><newline><left><battery_ui_str>"
 7607,Battery,电池
 7658,<left><left_click> Increase priority<right><right_click> Decrease priority<newline><center><em>Ctrl + <left_click></em> Change priority of all <display_name_pl>,<left><left_click> 提高优先级<right><right_click> 降低优先级<newline><center><em>Ctrl + <left_click></em> 改变所有<display_name_pl>的优先级
 7659,<ButtonA> Change priority<newline><ButtonX> Change priority of all <display_name_pl>,<ButtonA> 改变优先级<newline><ButtonX> 改变所有优先级 <display_name_pl>
@@ -11543,9 +11545,9 @@ Current status: Exports are <em>forbidden</em>.","允许或禁止向地球出口
 513214256397,Maintenance already requested.,已申请维护
 425734571364,Request Maintenance,申请维护
 8629,Move the camera to the other side of the tunnel.,将相机对准隧道的另一边
-8630,View Exit,退出观景
-8631,<left_click> View,<left_click> 观景
-7605,<ButtonA> View,<ButtonA> 观景
+8630,View Exit,观察出口
+8631,<left_click> View,<left_click> 观察
+7605,<ButtonA> View,<ButtonA> 观察
 7822,Destroy this building.,摧毁这座建筑。
 593,Rebuild this building.,重建这座建筑。
 592,Rebuild,重建
@@ -11710,7 +11712,7 @@ Current status: Exports are <em>forbidden</em>.","允许或禁止向地球出口
 725519231960,Available storage space. This vehicle will stop gathering resources once full.,Available storage space. This vehicle will stop gathering resources once full.可用的储货空间。如果容量已满，这辆车将停止收集资源。
 109035890389,Capacity,容量
 452762661451,Capacity<right><resource(StoredAmount)>/<resource(max_shared_storage)>,容量<right><resource(StoredAmount)>/<resource(max_shared_storage)>
-39,"Vehicles can recharge their batteries from active Power grids. Vehicles are also able to recharge each other, equalizing the Power in their batteries.<newline><newline><left><battery_ui_str>",""车辆可以从电网中为电池充电。车辆也可以相互充电，他们将平分电池中的电量。<newline><newline><left><battery_ui_str>"
+39,"Vehicles can recharge their batteries from active Power grids. Vehicles are also able to recharge each other, equalizing the Power in their batteries.<newline><newline><left><battery_ui_str>","载具可以从有源电网中重新充电。载具也可以互相充电，达到电量平衡的状态。<newline><newline><left><battery_ui_str>"
 38,Battery  <percent(BatteryPerc)>,电池  <percent(BatteryPerc)>
 660271041264,<CarriedResourceStr>,<CarriedResourceStr>
 7419,<Description>,
@@ -12239,7 +12241,7 @@ Current status: Exports are <em>forbidden</em>.","允许或禁止向地球出口
 4744,Arrival chance (Scientist),到达几率（科学家）
 4745,Arrival chance (Engineer),到达几率（工程师）
 4746,Arrival chance (Officer),到达几率（军官）
-4747,Arrival chance (Geologist),到达几率（地理学家）
+4747,Arrival chance (Geologist),到达几率（地质学家）
 4748,Arrival chance (Botanist),到达几率（植物学家）
 4749,Arrival chance (Medic),到达几率（医生）
 4750,Multiplier for arrival chances of all Specialist types,对所有专家的到达几率修正
