@@ -11023,16 +11023,16 @@ Some features may not work.","下列Mod缺失或过期:
 3961,Residential space: <colonist(capacity)>,居住空间：<colonist(capacity)>
 3962,Comfort (all Residences): +<Stat(dome_comfort)>,提高（所有住所）舒适度：+<Stat(dome_comfort)>
 3963,Service Comfort: <Stat(comfort)>,服务舒适度：<Stat(comfort)>
-3964,<em>Workers:</em> <colonist(workers)> (single work shift),<em>工作者：</em> <colonist(workers)>（单个工作班次）
-3965,<em>Workers:</em> <colonist(total)> (<colonist(workers)> per work shift),<em>工作者：</em> <colonist(total)>（<colonist(workers)>每个工作班次）
-3966,Base production: <icon_Food> based on crop,基地产量：<icon_Food> 基于作物
-3967,Base production: ,基地产量
-3957,for each 5 hexes-long section,每五次地块选择
+3964,<em>Workers:</em> <colonist(workers)> (single work shift),<em>员工数量：</em> <colonist(workers)>（单个工作班次）
+3965,<em>Workers:</em> <colonist(total)> (<colonist(workers)> per work shift),<em>员工数量：</em> <colonist(total)>（<colonist(workers)>每个工作班次）
+3966,Base production: <icon_Food> based on crop,基础产量：<icon_Food> 基于作物
+3967,Base production: ,基础产量：
+3957,for each 5 hexes-long section,每五格长的区段
 8099,<colonist(workers)> ,
 3968,You can only build this building once.,此建筑你只能建造一次。
 3969,Available prefabs: <number>,可用的预制材料：<number>
 3970,"You need prefab parts for this building. Use a resupply Rocket to bring more <em>prefabs</em> from Earth, or research the corresponding <em>Technology</em>.","你需要此建筑的预制材料。发射补给火箭从地球获得<em>prefabs</em>，或通过研发相关的<em>Technology</em>科技解锁建造。"
-7907,Maximum number of Domes has been reached,穹顶已达数目上线
+7907,Maximum number of Domes has been reached,穹顶已达数目上限
 8100,<formatedbuildinginfo('ElectricityGridElement')>,
 3971,Connect Power producers and consumers by establishing Power grids.,建立电网连接产电建筑和耗电建筑
 8101,"<description>
