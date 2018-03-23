@@ -1080,7 +1080,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5253,Generates Research faster than a Research Lab.,比研究实验室更快地进行研究。
 5254,Security Station,安保站
 5255,Security Stations,安保站
-5256,Counters crime created by Renegades and reduces Sanity loss from disasters for all residents in the Dome.,反制叛徒造成的犯罪，并减少了所有在圆顶屋中居民因灾难损失的精神值。
+5256,Counters crime created by Renegades and reduces Sanity loss from disasters for all residents in the Dome.,反制叛徒造成的犯罪，并减少了所有在穹顶中的居民因灾难损失的精神值。
 5257,Sensor Tower,感应塔
 5258,Sensor Towers,感应塔
 5259,"Boosts scanning speed, especially for nearby sectors. Extends the advance warning for disasters.",提高扫描速度，尤其是在附近的区块。扩大灾害预警。
@@ -2786,7 +2786,7 @@ The unparalleled everyday stress levels slowly drain the people of their resolve
 7084,Our Colonists are suffocating! We only have a few hours to get them more Oxygen before they run out!,我们的殖民者难以呼吸！我们必须让他们获得更多的氧气，否则他们会在几个小时之内窒息身亡！
 5717,"Our Domes are large enough to contain tons of breathable air, but when the systems fail to refresh the supply, the amount of carbon dioxide will steadily increase until the atmosphere becomes unbreathable.
 
-<hint> Colonists with the Suffocating status effect have no access to Oxygen and will die within a short time. Connect their Dome to operational MOXIEs and Oxygen Tanks or plant Oxygen-Producing Crops in Farms to supply them with Oxygen.","我们的圆顶足够大，可以容纳大量可呼吸的空气，但是当系统无法供给新鲜空气时，二氧化碳的含量将逐步增加，直到空气无法呼吸为止。
+<hint> Colonists with the Suffocating status effect have no access to Oxygen and will die within a short time. Connect their Dome to operational MOXIEs and Oxygen Tanks or plant Oxygen-Producing Crops in Farms to supply them with Oxygen.","我们的穹顶足够大，可以容纳大量可呼吸的空气，但是当系统无法供给新鲜空气时，二氧化碳的含量将逐步增加，直到空气无法呼吸为止。
 
 <hint>无法获得氧气的殖民者会处于窒息状态，并会在短时间内死亡。将他们的穹顶连接到工作中的的制氧器和氧气罐，或者在农场种植产氧作物，为他们提供氧气。"
 5718,Dehydration!,脱水！
@@ -3310,7 +3310,7 @@ As wise men throughout history said more than once: the more we know, the more w
 
 <effect> A Celebrity Applicant is available on Earth.","这些摄影作品已被证明对这项任务有用，它鼓舞地球上的人们相信人类应该在红色星球上建立新的家园。
 
-<effect> 名人申请人在地球上可用。"
+<effect> 一位名人申请人出现在地球上。"
 5839,"One tabloid even claims that the crystal is in fact artificially created - some kind of artwork of a microscopic alien race.
 
 ""The work resembles million tiny cylinders surrounded by flames. If you squint your eyes, the very static of the composition resembles a star map. The image is bordered by double rainbows while the work has an abstract feeling and a very dynamic structure.""
@@ -3429,7 +3429,7 @@ So far, there are three major camps. The moderate skeptics argue that the truth 
 
 从殖民地的每周听证会的时间表就能看出，这个立方体的浪潮。诸如食品质量和额外科学经费要求等微不足道的主题已经完全消失，取而代之的是各派观点的宣传要求。
 
-到目前为止，有三大阵营。那些温和的怀疑论者认为，事实并不在我们的掌握之中，需要保留立方体并将其存储起来以供进一步研究。悲观的人坚持要破坏所有的立方体，将其视为故意的威胁。然后，有些人坚信立方体是为了向来自某个未知慈善实体的人类馈赠礼物。他们要求把立方体运输到圆顶内并展示给大家看。
+到目前为止，有三大阵营。那些温和的怀疑论者认为，事实并不在我们的掌握之中，需要保留立方体并将其存储起来以供进一步研究。悲观的人坚持要破坏所有的立方体，将其视为故意的威胁。然后，有些人坚信立方体是为了向来自某个未知慈善实体的人类馈赠礼物。他们要求把立方体运输到穹顶内并展示给大家看。
 
 <effect>装饰用立方体制成的建筑物可以建造。"
 5898,"A gift or a Trojan horse, I wonder...",礼物或特洛伊木马，我想知道...
@@ -3455,7 +3455,7 @@ As reports are flowing in, we can clearly see a trend in the intensification of 
 随着报道的传来，我们可以清楚地看到光脉冲激化的趋势。这是倒计时吗？ 如果是这样，那又会发生什么？”"
 5907,"Just colonizing a new world isn’t interesting enough, it seems.",看起来，在新世界殖民真是无趣。
 5908,Power of Three: Of Mice & Men,三项之力：人与鼠
-5909,"Some of them call for the immediate destruction of all the cubes while others still insist on storing and studying them – as far away from the Domes as possible. And yet, the number of eccentrics worshiping the cubes and erecting monuments with them has grown even larger. Could the cubes be affecting us like they influenced our drones?",其中一些人呼吁立即销毁所有的立方体，而其他人仍然坚持先留着研究它们——当然尽可能远离圆顶。然而，与他们一起崇拜立方体和竖立纪念碑的怪人的数量变得更多。立方体能否影响我们，就像它们影响我们的机器人一样？
+5909,"Some of them call for the immediate destruction of all the cubes while others still insist on storing and studying them – as far away from the Domes as possible. And yet, the number of eccentrics worshiping the cubes and erecting monuments with them has grown even larger. Could the cubes be affecting us like they influenced our drones?",其中一些人呼吁立即销毁所有的立方体，而其他人仍然坚持先留着研究它们——当然尽可能远离穹顶。然而，与他们一起崇拜立方体和竖立纪念碑的怪人的数量变得更多。立方体能否影响我们，就像它们影响我们的机器人一样？
 5910,We must not lose focus.,我们必须集中注意力。
 5911,Power of Three: Construction Begins,三项之力：建设开始
 5912,"Between their usual command cycles, the drones have begun carrying cubes to a specific location and seem to be constructing a strange structure.
@@ -4478,7 +4478,7 @@ Be my competitor/partner and help/fight me to evolve.
 
 <effect>机器人失控并袭击了殖民地。"
 6223,Alert! Alert!,警报！警报
-6224,"Rogue Drones have attacked Colonists and life support buildings. Our Officers have been instructed to counter these, but shouldn't abandon the security of the Domes.",失控的机器人袭击了殖民者和生命维持建筑。我们的保安已被指示做出反击，但不应该放弃圆顶的安全。
+6224,"Rogue Drones have attacked Colonists and life support buildings. Our Officers have been instructed to counter these, but shouldn't abandon the security of the Domes.",失控的机器人袭击了殖民者和生命维持建筑。我们的保安已被指示做出反击，但不应该放弃穹顶的安全。
 7113,The Colony is expecting some sort of artificial cold wave. How’s that even possible?,殖民地期待着某种人造寒潮。 那怎么可能？
 7181,"There were no secrets to find near the Anomaly site, just a scene of breathtaking beauty.",在异常点的附近没找到什么秘密，只有一个令人惊叹的美景。
 7182,We discovered unusual crystals in the remains of a meteorite. The magnified images of their crystalline matrix were broadcast by every major news channel on Earth.,我们在陨石的残骸中发现了不寻常的水晶。这些水晶矩阵的放大图像由地球上的每个主要新闻频道播出。
@@ -6716,7 +6716,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 6636,Chronic Condition,慢性病
 6637,Loses Health each day.,每天失去生命值。
 8454,Infected,感染者
-8489,Loses Health each day. Spreads to other Colonists in the Dome.,每天失去生命值。传染给圆顶中的其他殖民者。
+8489,Loses Health each day. Spreads to other Colonists in the Dome.,每天失去生命值。传染给穹顶中的其他殖民者。
 6638,Composed,沉着
 6639,All Sanity losses are halved.,所有精神值损失减半。
 6640,Genius,天才
@@ -7050,8 +7050,8 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 7947,Water<right><green><resource(total)>(<resource(dome)>)<icon_Water></green>,淡水<right><green><resource(total)>(<resource(dome)>)<icon_Water></green>
 7526,Food<right><food(count)>,食品<right><food(count)>
 7893,The average <em>Comfort</em> of all Colonists living in this Dome.,这个穹顶中所有殖民者的平均<em>舒适度</em>。
-7894,<red><number> colonists couldn't satisfy their Interest (<interest_name>) - no available service building.</red>,<red><number>个殖民者的兴趣（<interest_name>）没有得到满足——没有可用的服务设施</red>
-7895,<red><number> colonists couldn't satisfy their Interest (<interest_name>) - service buildings are full.</red>,<red><number>个殖民者的兴趣（<interest_name>）没有得到满足——服务设施已满员</red>
+7894,<red><number> colonists couldn't satisfy their Interest (<interest_name>) - no available service building.</red>,<red><number>个殖民者的兴趣（<interest_name>）未满足——无可用设施</red>
+7895,<red><number> colonists couldn't satisfy their Interest (<interest_name>) - service buildings are full.</red>,<red><number>个殖民者的兴趣（<interest_name>）未满足——服务设施满员</red>
 570,This Dome is not operational due to lack of Colonists,这个穹顶缺少殖民者来运作。
 7622,<center><em>Jobs</em>,<center><em>职业</em>
 7623,<newline><center><em>Living space</em>,<newline><center><em>生存空间</em>
