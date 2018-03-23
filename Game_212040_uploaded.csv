@@ -10821,7 +10821,7 @@ Some features may not work.","下列Mod缺失或过期:
 7587,<green>Martianborn Ingenuity <amount></color>,<green>火星出生者创造力 <amount></color>
 4342,Set Residence,设定住所
 4343,"Set a Residence for this Colonist. The Colonist will not change Residence for the next 5 Sols. If the target is in another Dome located far away, a shuttle may be needed to reach it.","为此殖民者设定住所。殖民者不会在接下来的5天内改变住所。如果设定目标是另一个远处的穹顶，则需要一架穿梭机来运输此殖民者。"
-4346,Set Workplace,设立工作地点
+4346,Set Workplace,设定工作地点
 4348,"Set a Workplace for this Colonist. The Colonist will keep the selected Workplace for the next 5 Sols. If the target is in another Dome located far away, a shuttle may be needed to reach it.","为此殖民者设定工作地点。设定后殖民者5天内无法改变工作地点。如果设定目标是另一个远处穹顶，则需要一架穿梭机来运输此殖民者。"
 4354,Colonists are required to operate Dome buildings.<newline>,需要殖民者使穹顶建筑运作<newline>
 4355,Sols on Mars<right><sols>,火星日<right><sols>
@@ -11484,13 +11484,13 @@ Some features may not work.","下列Mod缺失或过期:
 7651,<ButtonA> Open <newline><ButtonX> Open all <display_name_pl>,<ButtonA> 打开 <newline><ButtonX> 打开所有 <display_name_pl>
 441,Producing less Power than optimal,产生比最优功率小的功率
 447,Will produce <power(AdditionalProduction)> more Power if opened,如果打开将增加 <power(AdditionalProduction)> 功率产出
-428,Increasing the area of effect will greatly increase the Water consumption of the building.<newline><newline>Service range<right><SelectionRadiusScale> hexes,增加影响范围将会大大提高建筑的水资源消耗.<newline><newline>服务范围<right><SelectionRadiusScale> 和魔法
+428,Increasing the area of effect will greatly increase the Water consumption of the building.<newline><newline>Service range<right><SelectionRadiusScale> hexes,增加影响范围将会大大提高建筑的水资源消耗。<newline><newline>服务范围<right><SelectionRadiusScale>格
 625375195830,Initiates launch sequence for the return trip to Earth. Note that the rocket has to be refueled and any remaining resources on board will be lost.<newline><newline>Status: <em><UILaunchStatus></em>,启动返回地球的发射序列.需要注意的是火箭必须加注燃料以及火箭上任何剩余的资源上都将丢失.<newline><newline>现状： <em><UILaunchStatus></em>
 526598507877,Launch,发射
 7815,Automated Mode not possible while Rare Metal exports are forbidden.,自动模式在稀有金属禁止出口时不可用
 7816,"If Automated mode is activated the Rocket will repeatedly travel to Earth and back. It will land on the same spot and won't carry any imports or passengers from Earth. The Rocket will launch to Earth when the cargo hold is full and the rocket is refueled.
 
-Current status: <em>Automated Mode</em>","如果自动模式被激活，火箭反复往返于地球和火星之间。它将降落在同一地点，不会携带任何来自地球的进口或乘客。火箭将在货舱已满和加注燃料之后发射到地球。当前状态：<em>Automated Mode</em>"
+Current status: <em>Automated Mode</em>","如果自动模式被激活，火箭反复往返于地球和火星之间。它将降落在同一地点，不会携带任何来自地球的进口或乘客。火箭将在货舱已满和加注燃料之后发射到地球。当前状态：<em>自动模式</em>"
 7814,Automated Mode,自动模式
 7817,"If Automated mode is activated the Rocket will repeatedly travel to Earth and back. It will land on the same spot and won't carry any imports or passengers from Earth. The Rocket will launch to Earth when the cargo hold is full and the rocket is refueled.
 
@@ -11524,7 +11524,7 @@ Current status: Exports are <em>forbidden</em>.","允许或禁止向地球出口
 416,Payload of the Rocket.,火箭的有效载荷
 415,Payload,有效载荷
 417,<CargoManifest>,
-488709956734,Increasing the area of effect will greatly increase the power consumption of the building.<newline><newline>Charging time<right><em><ChargeTime> h<em><newline><left>Service range<right><SelectionRadiusScale> hexes,增加影响范围将会大大提高建筑的电力消耗.<newline><newline>Charging time<right><em><ChargeTime> h<em><newline><left>服务范围<right><SelectionRadiusScale> 和魔法,
+488709956734,Increasing the area of effect will greatly increase the power consumption of the building.<newline><newline>Charging time<right><em><ChargeTime> h<em><newline><left>Service range<right><SelectionRadiusScale> hexes,增加影响范围将会大大提高建筑的电力消耗。<newline><newline>充电时间<right><em><ChargeTime>小时<em><newline><left>服务范围<right><SelectionRadiusScale>格,
 490,Amount Waste Rock stored.,废石储存数量
 491,"<resource('WasteRock')><right><wasterock(Stored_WasteRock, MaxAmount_WasteRock)>",
 1176,Cancel Destroy,取消摧毁
