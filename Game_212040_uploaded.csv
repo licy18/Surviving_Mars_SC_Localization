@@ -3494,7 +3494,7 @@ They recall the fondest epochs of their history, where such strivings were predo
 
 他们回忆起他们历史上最伟大的时代，在这些时代中，这些努力是很重要的。骄傲和怀旧的古人们为我们提供了一份礼物。
 
-<effect>获得了新技术，<em> <reg_param1> </ em>"
+<effect>获得了新技术，<em> <reg_param1> </em>"
 5921,It has been quite the ride.,这一直很顺利。
 5922,We communed with the Ancients in our collective dream. They were impressed by our curiosity.,我们在集体的梦中与古人交流。我们的好奇心给他们留下了深刻的印象。
 5923,"Ultimately they expressed understanding, noting that there were times in their own long history, dark times when they had the same hostile response towards the unknown.
@@ -11445,10 +11445,10 @@ Some features may not work.","下列Mod缺失或过期:
 380271014404,Progress,进度
 7409,<UISectionProjectMorpheusRollover>,
 431,Traits given,给定的特质
-434,Lifetime<right><lifetime>,寿命<right><lifetime>
+434,Lifetime<right><lifetime>,累计<right><lifetime>
 429,Status and progress for the current recharge operation.,当前充电操作的现状和进度
 430,<WorkMode>,
-525,Unhappy Colonists may become Renegades. Renegades will often cause trouble in the Dome,不高兴的殖民者会变成叛徒.叛徒经常在穹顶中制造麻烦.
+525,Unhappy Colonists may become Renegades. Renegades will often cause trouble in the Dome,不高兴的殖民者会变成叛徒。叛徒经常在穹顶中制造麻烦。
 524,Renegades in the Dome,穹顶中的叛徒
 277702433938,Renegades in the Dome <right><RenegadesCount>,穹顶中的叛徒 <right><RenegadesCount>
 821612835210,Construct a Shuttle,制造穿梭机
@@ -11464,19 +11464,19 @@ Some features may not work.","下列Mod缺失或过期:
 398,In flight<right><FlyingShuttles>,运输中<right><FlyingShuttles>
 717110331584,Idle<right><IdleShuttles>,闲置<right><IdleShuttles>
 7818,Forbid Exports,禁止出口
-7819,Forbid the export of Rare Metals.,禁止稀有金属出口
+7819,Forbid the export of Rare Metals.,禁止稀有金属出口。
 7820,Allow Exports,允许出口
-7821,Allow the export of Rare Metals.,允许稀有金属出口
-7694,Current status of the Space Elevator.,空间电梯现状
+7821,Allow the export of Rare Metals.,允许稀有金属出口。
+7694,Current status of the Space Elevator.,太空电梯现状。
 418,<Status>,
 7410,Payload of this Rocket,本火箭的有效载荷
-420,Exports on the Space Elevator,空间电梯所出口的资源
+420,Exports on the Space Elevator,太空电梯所出口的资源
 419,Export,出口
 421,<ExportManifest>,
-423,Resources delivered by the Space Elevator,空间电梯运输的资源
+423,Resources delivered by the Space Elevator,太空电梯运输的资源
 422,Delivered Resources,被运输的资源
 424,<StorageManifest>,
-323140771762,Opening the generator increases Power produced but leaves it vulnerable to dust contamination.<newline><newline>现状: <em><UIOpenStatus></em>,打开发电机会增加功率产生但很可能会导致灰尘污染.<newline><newline>当前状态：<em><UIOpenStatus></em>
+323140771762,Opening the generator increases Power produced but leaves it vulnerable to dust contamination.<newline><newline>现状: <em><UIOpenStatus></em>,打开发电机会增加功率产生但很可能会导致灰尘污染。<newline><newline>当前状态：<em><UIOpenStatus></em>
 962425882475,Open/Close,打开/关闭
 7648,<left_click> Close <newline><em>Ctrl + <left_click></em> Close all <display_name_pl>,<left_click> 关闭 <newline><em>Ctrl + <left_click></em> 关闭所有 <display_name_pl>
 7649,<ButtonA> Close <newline><ButtonX> Close all <display_name_pl>,<ButtonA> 关闭 <newline><ButtonX> 关闭所有 <display_name_pl>
@@ -11485,7 +11485,7 @@ Some features may not work.","下列Mod缺失或过期:
 441,Producing less Power than optimal,产生比最优功率小的功率
 447,Will produce <power(AdditionalProduction)> more Power if opened,如果打开将增加 <power(AdditionalProduction)> 功率产出
 428,Increasing the area of effect will greatly increase the Water consumption of the building.<newline><newline>Service range<right><SelectionRadiusScale> hexes,增加影响范围将会大大提高建筑的水资源消耗。<newline><newline>服务范围<right><SelectionRadiusScale>格
-625375195830,Initiates launch sequence for the return trip to Earth. Note that the rocket has to be refueled and any remaining resources on board will be lost.<newline><newline>Status: <em><UILaunchStatus></em>,启动返回地球的发射序列.需要注意的是火箭必须加注燃料以及火箭上任何剩余的资源上都将丢失.<newline><newline>现状： <em><UILaunchStatus></em>
+625375195830,Initiates launch sequence for the return trip to Earth. Note that the rocket has to be refueled and any remaining resources on board will be lost.<newline><newline>Status: <em><UILaunchStatus></em>,启动返回地球的发射序列。需要注意的是火箭必须加注燃料以及火箭上任何剩余的资源上都将丢失。<newline><newline>当前状态：<em><UILaunchStatus></em>
 526598507877,Launch,发射
 7815,Automated Mode not possible while Rare Metal exports are forbidden.,自动模式在稀有金属禁止出口时不可用
 7816,"If Automated mode is activated the Rocket will repeatedly travel to Earth and back. It will land on the same spot and won't carry any imports or passengers from Earth. The Rocket will launch to Earth when the cargo hold is full and the rocket is refueled.
